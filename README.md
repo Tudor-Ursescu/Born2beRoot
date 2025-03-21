@@ -6,7 +6,7 @@
 
 2. [Project Requirements](#-project-requirements)
 
-3. [System Setup](#-system-setup)
+3. [System Setup](#system-setup)
 
 4. [Security & User Management](#-security-&-user-management)
 
